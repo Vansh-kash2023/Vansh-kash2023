@@ -94,11 +94,5 @@ I'm a B.Tech CSE (AIML) student at VIT Bhopal 🎓, passionate about full-stack 
   <img src="https://streak-stats.demolab.com?user=Vansh-kash2023&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-kash2023&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-kash2023&layout=compact&theme=dark&hide_border=false&border_radius=5" height="180" alt="top languages" />
-</div>
 
 ###
